@@ -1,6 +1,5 @@
 # Assign-Azure-resource-roles-in-Privileged-Identity-Management
 
-Scenario
 Microsoft Entra Privileged Identity Management (PIM) can manage the built-in Azure resource roles, as well as custom roles, including (but not limited to):
 
   - Owner
@@ -48,7 +47,7 @@ Need to make a user eligible for an Azure resource role.
   - Select Azure resources
   - Select the Subscription you want to manage, then select the Resource group, and select Manage resource
   - Under Manage, select Assignments
-  - On the Eligible assignments tab, in the Action column, review the available options, then switch to the Active assignments tab where your User1-66060929 account that was preassigned at     lab start should appear under API Management Service Contributor
+  - On the Eligible assignments tab, in the Action column, review the available options, then switch to the Active assignments tab where your User account should appear under the role
   - Select Remove
   - In the Remove dialog box, review the information and then select Yes
 
